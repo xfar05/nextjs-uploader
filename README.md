@@ -1,2 +1,1 @@
-# demo
-https://uploader.xfar.my.id
+uploader file single & multi (support all .ext)
